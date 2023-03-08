@@ -277,7 +277,7 @@ In the **`execute` ** phase, we call the **`setGreeting` ** function on the smar
 
 You should see something like this pop up on the Playground
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
