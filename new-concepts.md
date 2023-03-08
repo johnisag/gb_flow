@@ -16,7 +16,7 @@ Flow allows you to push a _"beta smart contract"_ to their main network. You wil
 
 Once you decide to finalize the contract, you can choose to take it out of beta phase. This will make your smart contract immutable (unchangeable).
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Accounts
 
