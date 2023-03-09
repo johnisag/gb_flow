@@ -4,7 +4,7 @@ description: Cadence - How to build dApps on Flow
 
 # Intro to Cadence
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this level, we will learn about **Cadence**, the **smart contracts programming language created and used by Flow**.&#x20;
 
@@ -30,7 +30,7 @@ For now, we will do all our development in the Flow Playground. [Open it up by c
 
 You should see something like this.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the left, you can see 5 accounts (0x01 to 0x05). These are obviously **fake accounts**, but are given to use by the Flow playground to test smart contracts with multiple parties involved. Additionally, since **smart contracts get deployed to addresses**, in the case of the Flow playground we can just deploy them to any one of the given five addresses - which makes testing easier.
 
@@ -277,7 +277,7 @@ In the **`execute` ** phase, we call the **`setGreeting` ** function on the smar
 
 You should see something like this pop up on the Playground
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
