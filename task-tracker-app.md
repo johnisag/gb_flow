@@ -196,7 +196,7 @@ We already created the first transaction, to save the `TaskList` resource in `/s
 
 Let's add three more transactions by clicking the `+` button on the right side of the `Transaction Templates` in the sidebar, trice.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (7).png>)
 
 Let's rename the first newly created task to **`Add Task` ** and add the following code :thumbsup:
 
