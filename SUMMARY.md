@@ -6,5 +6,5 @@
 * [Intro to Cadence](intro-to-cadence.md)
 * [Setup Flow Locally](setup-flow-locally.md)
 * [Task Tracker App](task-tracker-app.md)
-* [Name Space - Part 1](name-space-part-1.md)
-* [Name Space - Part 2](name-space-part-2.md)
+* [Name Space - Contract](name-space-contract.md)
+* [Name Space - Deploy](name-space-deploy.md)
