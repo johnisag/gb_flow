@@ -279,7 +279,7 @@ Redeploy the contract from `0x01` to start with a clean slate.
 
 Change into any of the other addresses by clicking on the `0x01` signer on the right pop-up panel, and then selecting another signer like `0x02` from the list above.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once changed, try to create the resource using the `Save Resource` transaction that uses `createTaskList`. You will see an output in the console "Created Resource".
 

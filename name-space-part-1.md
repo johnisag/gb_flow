@@ -2,7 +2,7 @@
 description: Ship your own name service on FLOW - Part 1 - Smart Contracts
 ---
 
-# Name Space - Part 1
+# Name Space - Contract
 
 You've likely heard of Ethereum Name Service (ENS).&#x20;
 
@@ -33,7 +33,7 @@ We will divide this lesson into two parts - Smart Contracts and Frontend.
 
 This is what we will be building by the end of this lesson series:
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔬 Setting Up
 

@@ -4,7 +4,7 @@ description: Ship your own name service on FLOW - Part 2 - Setting up for Deploy
 
 # Name Space - Deploy
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Great! You've gone through a LONG tutorial on how to build the Domains contract. You learnt a shit ton of things. Now, it's time to deploy to the Flow testnet, and set up your environment to be able to do that.
 
