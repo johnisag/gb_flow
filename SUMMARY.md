@@ -9,3 +9,5 @@
 * [Name Space - Contract](name-space-part-1.md)
 * [Name Space - Deploy](name-space-part-2.md)
 * [Name Space - dApp](name-space-dapp.md)
+* [NFTStorefront - Contract](nftstorefront-contract.md)
+* [NFTStorefront - dApp](nftstorefront-dapp.md)

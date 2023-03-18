@@ -192,7 +192,7 @@ Deploy this contract through `0x01`, and now we will create four transaction scr
 
 We already created the first transaction, to save the `TaskList` resource in `/storage/` above. Let's rename the transaction to `Save Resource` on the Playground to easily identify it (Look for a pencil edit icon next to the transaction name in the sidebar. Make sure the `Transaction` is clicked).
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Let's add three more transactions by clicking the `+` button on the right side of the `Transaction Templates` in the sidebar, trice.
 
