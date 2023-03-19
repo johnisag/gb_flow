@@ -11,3 +11,4 @@
 * [Name Space - dApp](name-space-dapp.md)
 * [NFTStorefront - Contract](nftstorefront-contract.md)
 * [NFTStorefront - dApp](nftstorefront-dapp.md)
+* [Name Service Flow Part1](name-service-flow-part1.md)
