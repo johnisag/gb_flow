@@ -192,11 +192,11 @@ Deploy this contract through `0x01`, and now we will create four transaction scr
 
 We already created the first transaction, to save the `TaskList` resource in `/storage/` above. Let's rename the transaction to `Save Resource` on the Playground to easily identify it (Look for a pencil edit icon next to the transaction name in the sidebar. Make sure the `Transaction` is clicked).
 
-<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Let's add three more transactions by clicking the `+` button on the right side of the `Transaction Templates` in the sidebar, trice.
 
-![](<.gitbook/assets/image (7).png>)
+![](.gitbook/assets/image.png)
 
 Let's rename the first newly created task to **`Add Task` ** and add the following code :thumbsup:
 
@@ -279,7 +279,7 @@ Redeploy the contract from `0x01` to start with a clean slate.
 
 Change into any of the other addresses by clicking on the `0x01` signer on the right pop-up panel, and then selecting another signer like `0x02` from the list above.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once changed, try to create the resource using the `Save Resource` transaction that uses `createTaskList`. You will see an output in the console "Created Resource".
 

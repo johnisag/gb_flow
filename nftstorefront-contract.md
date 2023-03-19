@@ -4,7 +4,7 @@ description: General Purpose NFT Storefront on Flow - Part 1
 
 # NFTStorefront - Contract
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 In this lesson series, we will look into Flow's NFT Storefront Smart Contracts, and understand how they are different from marketplaces such as OpenSea or LooksRare on Ethereum, and what makes them interesting.
 
