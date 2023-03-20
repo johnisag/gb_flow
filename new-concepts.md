@@ -76,7 +76,7 @@ The Authorizer(s) are the (set of) keys that sign over the transaction and autho
 
 For most use cases, these three values refer to the same account. However, for things like creating a new account, or multi-sig wallets, having these options is a very easy way to do things on Flow.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Storing Data on Flow
 

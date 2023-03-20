@@ -4,7 +4,7 @@ description: General Purpose NFT Storefront on Flow - Part 2
 
 # NFTStorefront - dApp
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, and welcome to the last programming level of the Flow Track! We hope you've learnt a lot over the last few lessons - and have a much better understanding of Flow, and how to build on Flow.
 
